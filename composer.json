@@ -1,0 +1,10 @@
+{
+    "require":{
+        "aura/sqlquery":"2.8.0",
+        "league/plates": "^3.4",
+        "tamtamchik/simple-flash": "^2.0"
+    },
+    "require-dev": {
+        "kint-php/kint": "^4.1"
+    }
+}
